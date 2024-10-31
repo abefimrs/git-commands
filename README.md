@@ -1,2 +1,2 @@
-# git-commands
-Git command archive with how to 
+### Git commands Archive - As refference
+
